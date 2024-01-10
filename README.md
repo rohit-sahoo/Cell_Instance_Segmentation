@@ -6,7 +6,7 @@ Neurological disorders, including neurodegenerative diseases such as Alzheimer's
 
 However, a significant challenge in this process is the segmentation of individual neuronal cells in microscopic images. Neuronal cells, particularly neuroblastoma cell lines like SH-SY5Y, are notoriously difficult to segment accurately due to their unique, irregular, and concave morphology. This difficulty is compounded by the time-intensive nature of manual segmentation, which limits the speed and scale at which data can be analyzed.
 
-![Cell Segmentation Example]([https://github.com/user/repo/blob/main/image.png](https://github.com/rohit-sahoo/Cell_Instance_Segmentation/blob/main/segmentation.png) "Cell Segmentation")
+![Cell Segmentation Example](https://github.com/rohit-sahoo/Cell_Instance_Segmentation/blob/main/segmentation.png "Cell Segmentation")
 
 
 
