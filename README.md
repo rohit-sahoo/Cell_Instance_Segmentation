@@ -73,3 +73,5 @@ The training notebook outlines the process of training the Detectron2 model. The
 
 This notebook is dedicated to the application of the Detectron2 model in the inference stage. Detectron2 is a powerful and versatile framework for object detection and segmentation tasks. The focus of this notebook is on deploying the trained Detectron2 model to perform segmentation on new, unseen data, showcasing its effectiveness in accurately identifying and delineating neuronal cells.
 
+
+![Cell Segmentation](https://github.com/rohit-sahoo/Cell_Instance_Segmentation/blob/main/Detectron%20Prediction%201.png  "Detectron Segmentation")
