@@ -6,6 +6,9 @@ Neurological disorders, including neurodegenerative diseases such as Alzheimer's
 
 However, a significant challenge in this process is the segmentation of individual neuronal cells in microscopic images. Neuronal cells, particularly neuroblastoma cell lines like SH-SY5Y, are notoriously difficult to segment accurately due to their unique, irregular, and concave morphology. This difficulty is compounded by the time-intensive nature of manual segmentation, which limits the speed and scale at which data can be analyzed.
 
+![Cell Segmentation Example]([https://github.com/user/repo/blob/main/image.png](https://github.com/rohit-sahoo/Cell_Instance_Segmentation/blob/main/segmentation.png) "Cell Segmentation")
+
+
 
 ### Project Objective
 The objective of this project is to develop an advanced instance segmentation model specifically tailored for neuronal cells. By leveraging the capabilities of computer vision, we aim to accurately segment individual neuronal cells in phase contrast microscopy images. This task holds particular importance due to the unique challenges posed by the morphology of neuronal cells, which have traditionally resulted in lower precision scores in segmentation tasks.
