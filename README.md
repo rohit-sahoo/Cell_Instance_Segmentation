@@ -1,5 +1,7 @@
 # Cell Instance Segmentation
 
+Check out my LLM project: [LLama2-LORA-Fine-Tune-QA](https://github.com/rohit-sahoo/LLama2-LORA-Fine-Tune-QA)
+
 ## Introduction
 ### Problem Statement
 Neurological disorders, including neurodegenerative diseases such as Alzheimer's and various forms of brain tumors, stand as a significant challenge in global health, leading to substantial mortality and disability worldwide. A crucial aspect of managing and understanding these disorders involves monitoring how they respond to treatment. Currently, one of the primary methods for this monitoring is through the analysis of neuronal cells using light microscopy. This approach is both accessible and non-invasive, offering a window into the cellular level changes brought about by these diseases and their treatments.
